@@ -6,4 +6,4 @@ Sample code for getting basic user information from providers(Google, Facebook a
 ### References
 - https://www.youtube.com/watch?v=idqhYcXxbPs&t=288s
 - https://tomanagle.medium.com/google-oauth-with-node-js-4bff90180fe6
-- Developer documentation
+- Developer documentation 
